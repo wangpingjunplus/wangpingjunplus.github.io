@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangpingjunplus.github.io</id>
     <title>HeiTao</title>
-    <updated>2020-04-26T04:03:24.821Z</updated>
+    <updated>2020-04-26T07:49:04.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wangpingjunplus.github.io"/>
     <link rel="self" href="https://wangpingjunplus.github.io/atom.xml"/>
-    <subtitle>GitHub个人主页</subtitle>
+    <subtitle>小黑桃辛辛苦苦搭建的个人主页</subtitle>
     <logo>https://wangpingjunplus.github.io/images/avatar.png</logo>
     <icon>https://wangpingjunplus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, HeiTao</rights>
