@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangpingjunplus.github.io</id>
     <title>HeiTao</title>
-    <updated>2020-04-27T04:07:19.205Z</updated>
+    <updated>2020-04-27T08:26:58.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wangpingjunplus.github.io"/>
     <link rel="self" href="https://wangpingjunplus.github.io/atom.xml"/>
@@ -54,9 +54,9 @@ so，，用了开头的那个配置（主要就一个原因：穷）<br>
 阿里云oss：六个月40g 4.98软妹币<br>
 腾讯云cos：新用户赠送六个月50g 还有一个一元购买六个月的流量包 50g<br>
 （如果不想在这里花钱 就直接看4.仓库的选择）<br>
-（而且最好不要用阿里云 而且cos需要设置静态网站 否则会出现如下图片所示：）<br>
-<img src="https://wangpingjunplus.github.io/post-images/1587901535060.jpg" alt="" loading="lazy"><br>
-两家对象存储的链接 cos <a href="https://cloud.tencent.com/product/cos">查看链接</a> oss <a href="https://www.aliyun.com/product/oss?spm=5176.12825654.eofdhaal5.13.3dbd2c4a3oEyW3&amp;aly_as=6aWSAIw7K">查看链接</a><br>
+（而且最好不要用阿里云 而且cos需要设置静态网站 否则会出现如下图片所示：）</p>
+<figure data-type="image" tabindex="1"><img src="https://wangpingjunplus.github.io/post-images/1587901535060.jpg" alt="" loading="lazy"></figure>
+<p>两家对象存储的链接 cos <a href="https://cloud.tencent.com/product/cos">查看链接</a> oss <a href="https://www.aliyun.com/product/oss?spm=5176.12825654.eofdhaal5.13.3dbd2c4a3oEyW3&amp;aly_as=6aWSAIw7K">查看链接</a><br>
 3.域名的购买：<br>
 有很多的域名商都有对应的新老用户优惠 首年几元钱的都有<br>
 但是！你要看好过了这第一年之后的续费资费！看看能否承受！</p>
@@ -87,20 +87,24 @@ DNS选择还是很多的 用购买的域名的默认DNS也可以<br>
 （P.S. 如果你不需要个人域名，可以跳过以上内容）</p>
 <p>3.下载Dreamweaver（我使用的是Dreamweaver cc 2019）（如果你选择其他的工具，可以百度，WYSIWYG Web builder工具酷安有大佬写教程了）<br>
 4.到百度上搜自己喜欢的网页模板，下载，放到一个你能找得到的地方（建议建一个文件夹）</p>
-<p>5.打开Dreamweaver，点击侧面的&lt;文件&gt;，点击上方的&lt;桌面&gt;（也可能不是桌面 但是就是那个位置），点击新建站点，站点名称即为你的个人网站想要的名字，&lt;本地站点文件夹&gt;就选择你刚刚建的那个文件夹即可<img src="https://wangpingjunplus.github.io/post-images/1587901787925.jpg" alt="" loading="lazy">Dreamweaver cc 2019主界面</p>
-<p><img src="https://wangpingjunplus.github.io/post-images/1587901832442.jpg" alt="" loading="lazy">文件菜单</p>
-<p><img src="https://wangpingjunplus.github.io/post-images/1587902540971.jpg" alt="" loading="lazy">新建站点菜单</p>
+<p>5.打开Dreamweaver，点击侧面的&lt;文件&gt;，点击上方的&lt;桌面&gt;（也可能不是桌面 但是就是那个位置），点击新建站点，站点名称即为你的个人网站想要的名字，&lt;本地站点文件夹&gt;就选择你刚刚建的那个文件夹即可<br>
+<img src="https://wangpingjunplus.github.io/post-images/1587901787925.jpg" alt="" loading="lazy"><br>
+Dreamweaver cc 2019主界面</p>
+<p><img src="https://wangpingjunplus.github.io/post-images/1587901832442.jpg" alt="" loading="lazy"><br>
+文件菜单</p>
+<p><img src="https://wangpingjunplus.github.io/post-images/1587902540971.jpg" alt="" loading="lazy"><br>
+新建站点菜单</p>
 <p>6.侧面出现了一堆文件，选择里面的index.html（这个index.html即为你的网站主页）</p>
 <p>7.是不是看到了一堆代码 感觉很懵呢？<br>
 不用着急，点击上方的&lt;拆分&gt;，选择顶部菜单的&lt;窗口&gt;-&lt;属性&gt;，即可进行可视化编辑了<br>
 在这个过程中，你可以观察实时代码，趁机熟悉代码<br>
-<img src="https://wangpingjunplus.github.io/post-images/1587902766244.jpg" alt="" loading="lazy">拆分之后的样子</p>
+<img src="https://wangpingjunplus.github.io/post-images/1587902766244.jpg" alt="" loading="lazy"><br>
+拆分之后的样子</p>
 <p>有一些（例如：超链接）是可以通过下方的属性来更改的，这里就不多赘述了 评论区欢迎提问以及大佬解答</p>
 <p>8.这个时候 你就可以来建立一个模板了 建立一个模板文件来写博客 这样每次博客就可以直接复制这个文件 改个名字（文件名纯英文）然后写博客啦</p>
 <p>9.可能你在写博客的时候发现，不能换行 空格只能空一格<br>
 那么，下面的代码可能就对你有用了<br>
 <img src="https://wangpingjunplus.github.io/post-images/1587902810960.jpg" alt="" loading="lazy"></p>
-<p>换行的时候 在要换行的那段结尾打<br> 注释的时候<!-- 注释内容 --> 注释里的内容就不运行了，代码会变灰 空格用  几个 就是空几格</p>
 <p>如果你的网页已经完成并已经全部保存 下面就应该用到GitHub和cloudflare了</p>
 <p>10.注册<a href="https://github.com/">GitHub</a>  （如果用的chrome 你可以加一个google翻译插件方便你的使用）</p>
 <p>11.建立GitHub仓库（应该注册结束就会提示你建立仓库，如果没提示，点击右侧的绿色<new>）<br>
@@ -109,28 +113,34 @@ DNS选择还是很多的 用购买的域名的默认DNS也可以<br>
 <p>这时候你的仓库里啥都没有 就需要上传你刚刚的那个文件夹里的所有文件<br>
 （注意！！！不能上传这个文件夹 上传你的本地站点文件夹内的文件和文件夹！ 一次限制只能上传100个文件 建议先上传所有html文件 然后再逐个上传文件夹）</p>
 <p>12.来到主界面 点击<settings> 向下划，找到GitHub Pages 在<Source>中选<Master branch><br>
-<img src="https://wangpingjunplus.github.io/post-images/1587903050416.jpg" alt="" loading="lazy">主界面</p>
-<figure data-type="image" tabindex="1"><img src="https://wangpingjunplus.github.io/post-images/1587903126867.jpg" alt="" loading="lazy"></figure>
-<ol start="13">
-<li><Custom domain>内填写你的个人域名 点击<save> 勾选<Enforce HTTPS></li>
+<img src="https://wangpingjunplus.github.io/post-images/1587903050416.jpg" alt="" loading="lazy"><br>
+主界面</p>
+<figure data-type="image" tabindex="2"><img src="https://wangpingjunplus.github.io/post-images/1587903126867.jpg" alt="" loading="lazy"></figure>
+<ol>
+<li>Custom domain内填写你的个人域名 点击save勾选Enforce HTTPS</li>
 </ol>
 <p>要记住 你的GitHub用户名.github.io 后面将会用到<br>
 <img src="https://wangpingjunplus.github.io/post-images/1587903155172.jpg" alt="" loading="lazy"></p>
 <p>14.注册<a href="https://dash.cloudflare.com/sign-up">cloudflare</a> 选择免费计划</p>
 <p>15.绑定你的域名 添加解析记录：<br>
 (1)打开windows的命令提示符 ping一下你的github网址 输入命令 ping 用户名.github.io 记录蓝框内值<br>
-<img src="https://wangpingjunplus.github.io/post-images/1587903229718.jpg" alt="" loading="lazy">ping这个功能第一次感觉这么实用</p>
+<img src="https://wangpingjunplus.github.io/post-images/1587903229718.jpg" alt="" loading="lazy"><br>
+ping这个功能第一次感觉这么实用</p>
 <p>(2)添加两条解析记录<br>
 ①解析类型：A 名称：@ 内容：&lt;刚刚ping得到的ip地址&gt; 代理状态：已代理<br>
 ②解析类型：CNAME 名称：www 内容：&lt;你的GitHub域名&gt; 代理状态：已代理<br>
 （P.S. &lt;&gt;的内容按照实际情况填写 不要加&lt;&gt;）</p>
 <p>16.提交 记录DNS服务器地址（两个） 到你的域名控制台更改你的DNS服务器为你所记录的DNS服务器地址<br>
-<img src="https://wangpingjunplus.github.io/post-images/1587903281426.jpg" alt="" loading="lazy">腾讯云的长这样</p>
+<img src="https://wangpingjunplus.github.io/post-images/1587903281426.jpg" alt="" loading="lazy"><br>
+腾讯云的长这样</p>
 <p>17.等待 等到你的DNS解析被同步结束后（0~72小时）会给你发一个邮件提示你的DNS解析已经生效 登录<a href="https://www.cloudflare.com/zh-cn/network/china/">cloudflare</a> 后</p>
 <p>18.设置方法如下：（打字太累了啊啊啊）<br>
-<img src="https://wangpingjunplus.github.io/post-images/1587903351095.jpg" alt="" loading="lazy">step1<br>
-<img src="https://wangpingjunplus.github.io/post-images/1587903370410.jpg" alt="" loading="lazy">step2<br>
-<img src="https://wangpingjunplus.github.io/post-images/1587903394451.jpg" alt="" loading="lazy">成果</p>
+<img src="https://wangpingjunplus.github.io/post-images/1587903351095.jpg" alt="" loading="lazy"><br>
+step1<br>
+<img src="https://wangpingjunplus.github.io/post-images/1587903370410.jpg" alt="" loading="lazy"><br>
+step2<br>
+<img src="https://wangpingjunplus.github.io/post-images/1587903394451.jpg" alt="" loading="lazy"><br>
+成果</p>
 <p>（记得把我的域名替换成你的域名啊！）</p>
 <p>至此 你就可以打开浏览器 输入你的域名 查看成果了<br>
 原创的域名为 <a href="https://www.tinycool.top/">查看链接</a> 大家来做客呀~<br>
